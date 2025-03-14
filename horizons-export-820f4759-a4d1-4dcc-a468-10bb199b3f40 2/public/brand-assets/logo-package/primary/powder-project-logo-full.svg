@@ -1,0 +1,14 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Primary Logo - Full Color -->
+  <g id="full-logo">
+    <!-- Mountain Symbol -->
+    <path d="M150 50L50 250H250L150 50Z" fill="#1a1a2e"/>
+    <path d="M150 100L100 200H200L150 100Z" fill="white"/>
+    <circle cx="150" cy="160" r="15" fill="#1a1a2e"/>
+    
+    <!-- Wordmark -->
+    <text x="300" y="175" fill="white" font-family="Arial" font-size="72" font-weight="bold">
+      The Powder Project
+    </text>
+  </g>
+</svg>

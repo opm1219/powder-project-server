@@ -1,0 +1,23 @@
+{
+  "primary": {
+    "blue": {
+      "900": "#1a1a2e",
+      "800": "#1e3a8a",
+      "700": "#1d4ed8",
+      "600": "#2563eb",
+      "500": "#3b82f6"
+    }
+  },
+  "accent": {
+    "white": {
+      "full": "#ffffff",
+      "90": "rgba(255,255,255,0.9)",
+      "60": "rgba(255,255,255,0.6)",
+      "20": "rgba(255,255,255,0.2)"
+    }
+  },
+  "gradients": {
+    "primary": "linear-gradient(to bottom, #1a1a2e, #000000)",
+    "accent": "linear-gradient(to bottom, rgba(0,0,0,0.2), rgba(0,0,0,0.8))"
+  }
+}
